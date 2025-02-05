@@ -59,7 +59,7 @@ function App() {
 
                   // Redirige a Google después de 3 segundos
                   setTimeout(() => {
-                    window.location.href = "http://localhost:8000";
+                    window.location.href = "https://enio-my-back-rose-page.vercel.app/";
                   }, 3000);
                 }} 
                 className={`bg-green-500 text-white font-bold p-2 rounded-md text-xl h-${agrandar}`} 
